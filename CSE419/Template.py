@@ -7,7 +7,7 @@ import bisect
 
 # lowerBound
 #pos = bisect.bisect_left(arr, x)  --> x er shoman ba boro First Index
-#pos = bisect.biseect_right(arr,x) --> x er boro First Index
+#pos = bisect.bisect_right(arr,x) --> x er boro First Index
 #---------------------------------
 # ---------- FAST IO ----------
 if os.path.exists("input.txt"):
@@ -25,6 +25,7 @@ def solve():
 
 if __name__ == "__main__":
     solve()
+
 
 
 
