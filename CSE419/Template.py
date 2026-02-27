@@ -17,9 +17,10 @@ def solve():
     t = int(input())   # number of test cases
     #t = 1
     for _ in range(t):
-        print("Hello World")
+        #code
 
 if __name__ == "__main__":
     solve()
+
 
 
