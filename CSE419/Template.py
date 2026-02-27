@@ -1,5 +1,10 @@
 import sys, os
 
+#---------------------------------
+#making an array
+#arr = list(map(int, input().split()))
+
+#---------------------------------
 # ---------- FAST IO ----------
 if os.path.exists("input.txt"):
     sys.stdin = open("input.txt", "r")
@@ -16,4 +21,5 @@ def solve():
 
 if __name__ == "__main__":
     solve()
+
 
